@@ -28,6 +28,6 @@ public struct ValidatorManager {
     }
     
     public static func sayHello() {
-        print( "Hello dear, How are you doing???")
+        print( "Hello dear, How are you doing???") //
     }
 }
